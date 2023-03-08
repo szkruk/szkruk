@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">A passionate software developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szkruk&label=Profile%20views&color=0e75b6&style=flat" alt="szkruk" /> </p>
-
+ 
 - 🔭 I’m currently working on **my Engineering Thesis.**
 
 - 🌱 I’m currently learning **NestJs and Typescript :D**
