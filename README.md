@@ -3,7 +3,7 @@
  
 - 🔭 I’m currently working on **my Engineering Thesis.**
 
-- 🌱 I’m currently learning **NestJs and Typescript :D**
+- 🌱 I’m currently learning **NestJs and React**
 
 - 📫 How to reach me **szymonkruk813@gmail.com**
 
